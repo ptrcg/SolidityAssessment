@@ -59,4 +59,3 @@ contract MyToken {
 
 ## Author
 Patricia Go
-guided by: Metacrafters mentor
